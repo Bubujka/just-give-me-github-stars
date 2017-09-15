@@ -1,0 +1,16 @@
+{
+  "name": "just-give-me-github-stars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksej Kamynin <zendzirou@gmail.com> (http://bubujka.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "printf": "^0.2.5",
+    "request": "^2.81.0"
+  }
+}
